@@ -18,8 +18,8 @@ int main(int argc, char const *argv[])
     Triangle t2={1,1,5};
     test(t2,"t2");
 
-    cout<<"Thank you"<<endl;
-   
+    cout<<"Thank you"<<endl;   
     cout<<"See you again"<<endl; 
+    
     return 0;
 }
